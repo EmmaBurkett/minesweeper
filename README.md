@@ -6,7 +6,7 @@ I programed a haphazard version of minesweeper. It's not fully functional but it
 
 The purpose was to entertain my roomates and to be able to help my team code in the java language.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/K38pdUB2kZM)
 
 # Development Environment
 
