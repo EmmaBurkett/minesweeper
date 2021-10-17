@@ -1,30 +1,31 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This is my first java program; my goal was to learn how to code in the java language.
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
+I programed a haphazard version of minesweeper. It's not fully functional but it's pretty close. It does not end unless you hit a bomb.
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
+The purpose was to entertain my roomates and to be able to help my team code in the java language.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+* VS code
+* Github
+* Java
 
-{Describe the programming language that you used and any libraries.}
+## Libraries
+*  java.util.Scanner - this let me take user input!
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3 Schools](https://www.w3schools.com/java/java_conditions.asp)
+* [Xet Code](https://zetcode.com/lang/java/collections/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Fix recuring problem
+* Make it faster
+* End game when everything but the bombs have been revealed
+* Add a flaging ability for identified bombs
+* Make it function outside of the terminal
