@@ -467,7 +467,7 @@ public class Main {
 
             if (hiddenDisplay[y][x] == "0" && x > 0){
                 myObject.move(hiddenDisplay, bombArrayDouble, x - 1, y); //left
-            }
+            } 
             if (hiddenDisplay[y][x] == "0" && y > 0){
                 myObject.move(hiddenDisplay, bombArrayDouble, x, y - 1); //up
             }

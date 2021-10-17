@@ -258,7 +258,7 @@ public class Main {
                 flagLocation = myObj.nextInt();  
                 hiddenDisplay[flagLocation] = "# ";
                 replacedDash = true;
-            }
+            } 
 
 
 
