@@ -577,7 +577,7 @@ public class Main {
                                 myMainObject.isBombsClose(hiddenDisplay, bombArrayDouble, y, negativeX);
                                 System.out.println("Down one backward all");
                             }*/
-   /*
+   /* 
                             if (y < bombArrayDouble.length && x != (bombArrayDouble[y].length - 1) && bombArrayDouble[y][x + 1] == 0) { // forward
                                 myMainObject.isBombsClose(hiddenDisplay, bombArrayDouble, y, (x + 1));
                             }

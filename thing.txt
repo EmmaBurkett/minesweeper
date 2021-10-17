@@ -464,7 +464,7 @@ public class Main {
         if (y >= 0 && y < bombArrayDouble.length && x >= 0 && x < bombArrayDouble[y].length){
             myObject.isBombsClose(hiddenDisplay, bombArrayDouble, y, x);
 
-
+ 
             if (hiddenDisplay[y][x] == "0" && x > 0){
                 myObject.move(hiddenDisplay, bombArrayDouble, x - 1, y); //left
             } 

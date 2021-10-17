@@ -248,7 +248,7 @@ public class Main {
                 bombArray[i] = 0;
             }
             System.out.print(bombArray[i]);
-        }
+        } 
         while (continueGame == true) {
             replacedDash = false;
             System.out.println("Enter Location(0-8) Enter 9 to flag: "); 
