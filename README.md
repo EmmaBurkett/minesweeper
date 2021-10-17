@@ -20,7 +20,7 @@ The purpose was to entertain my roomates and to be able to help my team code in 
 # Useful Websites
 
 * [W3 Schools](https://www.w3schools.com/java/java_conditions.asp)
-* [Xet Code](https://zetcode.com/lang/java/collections/)
+* [Zet Code](https://zetcode.com/lang/java/collections/)
 
 # Future Work
 
