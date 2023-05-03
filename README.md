@@ -33,3 +33,4 @@ The purpose was to entertain my roomates and to be able to help my team code in 
 # Stretch Work
 * I finished the program in python. Will translate to Java soon 04/24/2023
 * I didn't understand how to setup recursion in the proper format i.e. return statements at the beginning of the function etc. It was my third time using recusion, so I understand my confusion; this was a HUGE project to learn java and recusion on. Probably wouldn't try something like this again. <del>I most certainly will do this again. Also don't look for comments; I was lazy and if it was hard to write, it should be hard to read.</del>
+* Translated to Java - didn't include all the bells and whistles and a stretch goal for this would be to include multiple classes. 05/02/2023                         
